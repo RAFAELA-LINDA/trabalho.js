@@ -17,3 +17,4 @@ function multiplicação (v1, v2){
     return v1*v2;
 } 
 multiplicação(soma(3,5), soma (8,7));
+multiplicação (5);
