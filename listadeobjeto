@@ -1,0 +1,32 @@
+const cliente1= {
+    nome: "Rafa",
+    idade: 25 ,
+
+    }
+cliente1.endereco= {
+                     rua: "Brasil",
+                     numero:500,
+                    }
+
+
+
+
+const cliente2 =  {
+    nome: "Vania",
+    idade: 17,
+    endereco: {
+        rua: "Brasil",
+        numero: 500
+    }
+}
+
+console.log(cliente1)
+console.log(cliente2)
+
+
+
+
+const lista= [ "banana", "morango",]
+const enderecos= [{rua: " "},{rua: " "}]
+ 
+enderecos[0].rua
